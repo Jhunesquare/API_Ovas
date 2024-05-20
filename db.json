@@ -1,88 +1,86 @@
-{
-  "ovas": [
-    {
-      "id": 1,
-      "titulo": "Método Simplex",
-      "descripcion": "Ingeniería Civil",
-      "id_asig": 1,
-      "url": "http://localhost:4200/inicio/simplex_cal"
-    },
-    {
-      "id": 2,
-      "titulo": "Teoría de colas M/M/1",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 1,
-      "url": "http://localhost:4200/inicio/investigacion_de_operaciones/colas"
-    },
-    {
-      "id": 3,
-      "titulo": "Teoría de colas M/M/S",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 1,
-      "url": "http://localhost:4200/inicio/mms_cal"
-    },
-    {
-      "id": 4,
-      "titulo": "Método Húngaro",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 1,
-      "url": "http://localhost:4200/inicio/investigacion_de_operaciones/metodo_hungaro"
-    },
-    {
-      "id": 5,
-      "titulo": "Algoritmo SJF",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 2,
-      "url": "http://localhost:4200/inicio/sjf"
-    },
-    {
-      "id": 6,
-      "titulo": "Algoritmo FIFO",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 2,
-      "url": "http://localhost:4200/inicio/sistemas_operativos/fifo"
-    },
-    {
-      "id": 7,
-      "titulo": "...",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 2,
-      "url": "http://localhost:4200/inicio/"
-    },
-    {
-      "id": 8,
-      "titulo": "Anomalía de Belady",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 2,
-      "url": "http://localhost:4200/inicio/sistemas_operativos/belady"
-    },
-    {
-      "id": 9,
-      "titulo": "Series de Taylor",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 3,
-      "url": "http://localhost:4200/inicio/analisis_numerico/contenido_analisis_numerico/ova-analisis"
-    },
-    {
-      "id": 10,
-      "titulo": "Newton-Raphson",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 3,
-      "url": "http://localhost:4200/inicio/"
-    },
-    {
-      "id": 11,
-      "titulo": "...",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 3,
-      "url": "http://localhost:4200/inicio/"
-    },
-    {
-      "id": 12,
-      "titulo": "E.L Recursivas",
-      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "id_asig": 3,
-      "url": "http://localhost:4200/inicio/analisis_numerico/eclineales"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "titulo": "Método Simplex",
+    "descripcion": "Ingeniería Civil",
+    "id_asig": 1,
+    "url": "http://localhost:4200/inicio/simplex_cal"
+  },
+  {
+    "id": 2,
+    "titulo": "Teoría de colas M/M/1",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 1,
+    "url": "http://localhost:4200/inicio/investigacion_de_operaciones/colas"
+  },
+  {
+    "id": 3,
+    "titulo": "Teoría de colas M/M/S",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 1,
+    "url": "http://localhost:4200/inicio/mms_cal"
+  },
+  {
+    "id": 4,
+    "titulo": "Método Húngaro",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 1,
+    "url": "http://localhost:4200/inicio/investigacion_de_operaciones/metodo_hungaro"
+  },
+  {
+    "id": 5,
+    "titulo": "Algoritmo SJF",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 2,
+    "url": "http://localhost:4200/inicio/sjf"
+  },
+  {
+    "id": 6,
+    "titulo": "Algoritmo FIFO",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 2,
+    "url": "http://localhost:4200/inicio/sistemas_operativos/fifo"
+  },
+  {
+    "id": 7,
+    "titulo": "...",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 2,
+    "url": "http://localhost:4200/inicio/"
+  },
+  {
+    "id": 8,
+    "titulo": "Anomalía de Belady",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 2,
+    "url": "http://localhost:4200/inicio/sistemas_operativos/belady"
+  },
+  {
+    "id": 9,
+    "titulo": "Series de Taylor",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 3,
+    "url": "http://localhost:4200/inicio/analisis_numerico/contenido_analisis_numerico/ova-analisis"
+  },
+  {
+    "id": 10,
+    "titulo": "Newton-Raphson",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 3,
+    "url": "http://localhost:4200/inicio/"
+  },
+  {
+    "id": 11,
+    "titulo": "...",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 3,
+    "url": "http://localhost:4200/inicio/"
+  },
+  {
+    "id": 12,
+    "titulo": "E.L Recursivas",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "id_asig": 3,
+    "url": "http://localhost:4200/inicio/analisis_numerico/eclineales"
+  }
+]
